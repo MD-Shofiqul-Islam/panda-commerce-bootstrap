@@ -1,0 +1,22 @@
+.bg-orange{
+  background-color:  #fceae8 !important;
+}
+.categories img{
+  width: 100px;
+}
+.buy-now-button {
+  background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
+.bg-primary{
+  background-color: orange !important;
+}
+.bg-warning{
+background-color: orchid  !important;
+}
+.bg-oranges{
+  background-color: blue;
+}
